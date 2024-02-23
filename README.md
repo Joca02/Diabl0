@@ -23,3 +23,5 @@ In case of the player's death, the level has to be started all over again, from 
 ![image](https://github.com/Joca02/Diabl0/assets/104282488/fbcbe62d-3550-47cc-aa30-7ec1a0ff0217)
 ![image](https://github.com/Joca02/Diabl0/assets/104282488/fcd03361-88c3-4593-a654-8599dce353b7)
 
+# How to install the game
+Click and download Diabl0.zip file. Extract folder to desktop and start the game by clicking "Diabl0.exe". Executable file must be in the same folder as the ".dll" files.
